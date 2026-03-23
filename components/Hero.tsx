@@ -25,7 +25,7 @@ export default function Hero() {
     }
 
     const particles: Particle[] = [];
-    const colors = ["#6B21E8", "#C084FC", "#8B5CF6", "#E879F9"];
+    const colors = ["#F5C518", "#FFE94E", "#D4A017", "#FFF9C4"];
 
     for (let i = 0; i < 80; i++) {
       particles.push({
@@ -197,7 +197,7 @@ export default function Hero() {
           <span className="text-white/30 text-xs tracking-widest uppercase" style={{ fontFamily: "Inter, sans-serif" }}>
             scroll
           </span>
-          <div className="w-px h-12 bg-gradient-to-b from-electric-purple to-transparent" />
+          <div className="w-px h-12 bg-gradient-to-b from-electric-yellow to-transparent" />
         </div>
       </div>
 

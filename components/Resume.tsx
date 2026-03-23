@@ -200,8 +200,8 @@ export default function Resume() {
                       className="h-full rounded-full"
                       style={{
                         width: `${skill.level}%`,
-                        background: "linear-gradient(90deg, #6B21E8, #C084FC)",
-                        boxShadow: "0 0 8px rgba(192,132,252,0.5)",
+                        background: "linear-gradient(90deg, #F5C518, #FFE94E)",
+                        boxShadow: "0 0 8px rgba(245,197,24,0.5)",
                       }}
                     />
                   </div>

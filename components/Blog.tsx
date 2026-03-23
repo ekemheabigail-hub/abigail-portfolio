@@ -99,7 +99,7 @@ export default function Blog() {
               {/* Icon */}
               <div
                 className="text-3xl mb-4 transition-transform duration-300 group-hover:scale-110 w-fit"
-                style={{ color: "#C084FC" }}
+                style={{ color: "#F5C518" }}
               >
                 {post.icon}
               </div>

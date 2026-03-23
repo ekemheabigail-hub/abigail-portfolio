@@ -125,7 +125,7 @@ export default function About() {
               <div key={v.title} className="glass-card p-6 reveal">
                 <div
                   className="text-2xl mb-3"
-                  style={{ color: "#C084FC" }}
+                  style={{ color: "#F5C518" }}
                 >
                   {v.icon}
                 </div>

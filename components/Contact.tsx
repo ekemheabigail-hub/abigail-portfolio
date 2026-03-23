@@ -166,7 +166,7 @@ export default function Contact() {
                 <div className="flex flex-col items-center justify-center py-16 text-center">
                   <div
                     className="text-5xl mb-6"
-                    style={{ color: "#C084FC" }}
+                    style={{ color: "#F5C518" }}
                   >
                     ◉
                   </div>
@@ -242,14 +242,14 @@ export default function Contact() {
                       className="glass-input"
                       style={{ appearance: "none", cursor: "pointer" }}
                     >
-                      <option value="" style={{ background: "#0f0035" }}>Select a service…</option>
-                      <option value="ux-research" style={{ background: "#0f0035" }}>UX Research & Strategy</option>
-                      <option value="product-design" style={{ background: "#0f0035" }}>Product Design</option>
-                      <option value="design-system" style={{ background: "#0f0035" }}>Design System</option>
-                      <option value="brand" style={{ background: "#0f0035" }}>Brand & Visual Identity</option>
-                      <option value="accessibility" style={{ background: "#0f0035" }}>Accessibility Audit</option>
-                      <option value="consulting" style={{ background: "#0f0035" }}>Design Consulting</option>
-                      <option value="other" style={{ background: "#0f0035" }}>Other / Not sure yet</option>
+                      <option value="" style={{ background: "#0a0a0a" }}>Select a service…</option>
+                      <option value="ux-research" style={{ background: "#0a0a0a" }}>UX Research & Strategy</option>
+                      <option value="product-design" style={{ background: "#0a0a0a" }}>Product Design</option>
+                      <option value="design-system" style={{ background: "#0a0a0a" }}>Design System</option>
+                      <option value="brand" style={{ background: "#0a0a0a" }}>Brand & Visual Identity</option>
+                      <option value="accessibility" style={{ background: "#0a0a0a" }}>Accessibility Audit</option>
+                      <option value="consulting" style={{ background: "#0a0a0a" }}>Design Consulting</option>
+                      <option value="other" style={{ background: "#0a0a0a" }}>Other / Not sure yet</option>
                     </select>
                   </div>
 

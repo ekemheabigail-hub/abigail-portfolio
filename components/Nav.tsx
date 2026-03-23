@@ -70,7 +70,7 @@ export default function Nav() {
               >
                 {link.label}
                 <span
-                  className={`absolute -bottom-1 left-0 h-px bg-gradient-to-r from-electric-purple to-lilac transition-all duration-300 ${
+                  className={`absolute -bottom-1 left-0 h-px bg-gradient-to-r from-electric-yellow to-bright-yellow transition-all duration-300 ${
                     activeSection === link.href.replace("#", "")
                       ? "w-full"
                       : "w-0 group-hover:w-full"
